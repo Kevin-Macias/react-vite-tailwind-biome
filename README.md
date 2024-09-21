@@ -14,7 +14,7 @@ This is a boilerplate template that includes **React**, **Vite**, **Tailwind CSS
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/react-vite-tailwind-biome-template.git
+git clone https://github.com/Kevin-Macias/react-vite-tailwind-biome
 cd react-vite-tailwind-biome-template
 ```
 
